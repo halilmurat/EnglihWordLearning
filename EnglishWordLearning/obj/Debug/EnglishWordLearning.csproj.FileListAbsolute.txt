@@ -1,0 +1,9 @@
+c:\users\lenovo\documents\visual studio 2013\Projects\EnglishWordLearning\EnglishWordLearning\bin\Debug\EnglishWordLearning.exe.config
+c:\users\lenovo\documents\visual studio 2013\Projects\EnglishWordLearning\EnglishWordLearning\bin\Debug\EnglishWordLearning.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\EnglishWordLearning\EnglishWordLearning\bin\Debug\EnglishWordLearning.pdb
+c:\users\lenovo\documents\visual studio 2013\Projects\EnglishWordLearning\EnglishWordLearning\obj\Debug\EnglishWordLearning.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2013\Projects\EnglishWordLearning\EnglishWordLearning\obj\Debug\EnglishWordLearning.Form1.resources
+c:\users\lenovo\documents\visual studio 2013\Projects\EnglishWordLearning\EnglishWordLearning\obj\Debug\EnglishWordLearning.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2013\Projects\EnglishWordLearning\EnglishWordLearning\obj\Debug\EnglishWordLearning.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2013\Projects\EnglishWordLearning\EnglishWordLearning\obj\Debug\EnglishWordLearning.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\EnglishWordLearning\EnglishWordLearning\obj\Debug\EnglishWordLearning.pdb
